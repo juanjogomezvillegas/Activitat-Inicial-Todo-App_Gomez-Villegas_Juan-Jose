@@ -30,6 +30,6 @@ $ npm run lint
 
 ## License
 
-![MIT License]()
+![MIT License](https://github.com/juanjogomezvillegas/Activitat-Inicial-Todo-App_Gomez-Villegas_Juan-Jose/blob/main/LICENSE)
 
 Copyright (c) 2022 Juan José Gómez Villegas
