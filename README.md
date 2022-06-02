@@ -1,24 +1,35 @@
-# vue-todo
+# Activitat-Inicial-Todo-App_Gomez-Villegas_Juan-Jose
+
+# Author
+
+- Juan José Gómez Villegas
 
 ## Project setup
-```
-npm install
+
+```sh
+$ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
+
+```sh
+$ npm run serve
 ```
 
 ### Compiles and minifies for production
-```
-npm run build
+
+```sh
+$ npm run build
 ```
 
 ### Lints and fixes files
-```
-npm run lint
+
+```sh
+$ npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+![MIT License]()
+
+Copyright (c) 2022 Juan José Gómez Villegas
