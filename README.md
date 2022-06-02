@@ -1,6 +1,6 @@
 # Activitat-Inicial-Todo-App_Gomez-Villegas_Juan-Jose
 
-# Author
+## Author
 
 - Juan José Gómez Villegas
 
